@@ -1,6 +1,10 @@
 {
   "name": "reactmongo",
   "version": "1.0.0",
+  "engines": {
+    "node": "8.11.2"
+  },
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
